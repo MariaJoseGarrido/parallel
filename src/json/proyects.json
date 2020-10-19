@@ -1,0 +1,75 @@
+{
+  "Proyects":[{
+      
+      "title": "Cipher",
+      "img": "https://i.ibb.co/g7pyX9N/cipher.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, Github"
+      
+  },
+  {
+      
+      "title": "Data Lover",
+      "img": "https://i.ibb.co/sVjHLHv/data-Lover.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, Json, Github"
+      
+  },
+  {
+      
+      "title": "Social Network",
+      "img": "https://i.ibb.co/16vTvWG/social-Network.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, Firebase, Github"
+      
+  },
+  {
+      
+      "title": "Burger Queen",
+      "img": "https://i.ibb.co/JywqWtZ/burger-queen.png",
+      "description": "Proyecto para Laboratoria...agregar detalle",
+      "technology": "HTML5, CSS, JS, React, Json, Firebase, Bootstrap, Github"
+      
+  },
+  {
+      
+    "title": "MdLinks",
+    "img": "https://i.ibb.co/H7k7SHn/mdlinks.png",
+    "description": "Proyecto para Laboratoria...agregar detalle",
+    "technology": "HTML5, Node.js, JS, Github"
+    
+},
+{
+      
+  "title": "Hootie Hoo",
+  "img": "https://i.ibb.co/Xsy4mnz/hootie.png",
+  "description": "Proyecto para Laboratoria...agregar detalle",
+  "technology": "HTML5, CSS, JS, Bootstrap, Github"
+  
+},
+
+{
+      
+  "title": "Desafío SMU - Unimarc",
+  "img": "https://i.ibb.co/YB0CP56/unimarc.png",
+  "description": "Proyecto para Laboratoria...agregar detalle",
+  "technology": "HTML5, CSS, JS, React, Json, Bootstrap, Netlify, Github"
+  
+}
+
+
+]
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
