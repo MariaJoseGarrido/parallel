@@ -53,7 +53,7 @@
       "title": "Desafío SMU - Unimarc",
       "img": "https://i.ibb.co/YB0CP56/unimarc.png",
       "description": "Proyecto para Laboratoria...agregar detalle",
-      "technology": "HTML5, CSS, JS, React, Json, Bootstrap, Netlify, Github",
+      "technology": "HTML5, CSS, JS, React, Json, Bootstrap, Netlify, Github", 
       "demo": "https://4luquitas-unimarc.netlify.app/",
       "repo": "https://github.com/MariaJoseGarrido/smu-hackaton"
     }
